@@ -25,13 +25,13 @@ rectangle(50,20,'blue')
 
 #legs
 t.goto(-25, -50)
-rectangle(15,100,'grey')
+rectangle(15,100,'peru')
 t.goto(-55,-50)
-rectangle(-15,100,'grey')
+rectangle(-15,100,'peru')
 
 #body
 t.goto(-90,100)
-rectangle(100,150,'red')
+rectangle(100,150,'maroon')
 
 #arms
 t.goto(-150, 70)
@@ -50,7 +50,7 @@ rectangle(15,20,'grey')
 
 #head
 t.goto(-85,170)
-rectangle(80,50,'red')
+rectangle(80,50,'green')
 
 #eyes
 t.goto(-60, 160)
